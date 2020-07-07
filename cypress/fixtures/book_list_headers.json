@@ -1,0 +1,13 @@
+{
+    "headers": [
+        "Cover",
+        "Title",
+        "Author",
+        "Year",
+        "Edition",
+        "ISBN",
+        "Description",
+        "Borrower",
+        "Details"
+    ]
+}

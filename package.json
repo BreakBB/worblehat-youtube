@@ -1,0 +1,8 @@
+{
+  "name": "worblehat-youtube",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^4.8.0"
+  }
+}

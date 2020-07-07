@@ -19,3 +19,6 @@ logs
 
 # Ignore Gradle build output directory
 build
+
+# JavaScript & Cypress
+node_modules/
